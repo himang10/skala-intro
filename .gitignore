@@ -1,0 +1,6 @@
+# Java 
+*.class
+*.jar
+*.tar
+*.war
+*.ear
